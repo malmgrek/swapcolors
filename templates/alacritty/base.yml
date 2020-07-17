@@ -295,6 +295,30 @@ schemes:
       cyan:    '#93a1a1' # base1
       white:   '#fdf6e3' # base3
 
+  darkplus: &darkplus
+    primary:
+      background: '#1e1e1e'
+      foreground: '#d4d4d4'
+    normal:
+      black:   '#1e1e1e'
+      red:     '#f44747'
+      green:   '#608b4e'
+      yellow:  '#dcdcaa'
+      blue:    '#569cd6'
+      magenta: '#c586c0'
+      cyan:    '#9cdcfe'
+      white:   '#d4d4d4'
+    bright:
+      black:   '#1e1e1e'
+      red:     '#f44747'
+      green:   '#608b4e'
+      yellow:  '#dcdcaa'
+      blue:    '#569cd6'
+      magenta: '#c586c0'
+      cyan:    '#9cdcfe'
+      white:   '#d4d4d4'
+
+
 # Visual Bell
 #
 # Any time the BEL code is received, Alacritty "rings" the visual bell. Once
