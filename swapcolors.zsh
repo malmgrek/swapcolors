@@ -1,4 +1,14 @@
 # Swap themes using templates
+# 
+# Installation
+# ------------
+#
+# 1. Add the following line in your .zshrc: 'source "~/.zsh/swapcolors"'
+# 2. Re-source .zshrc
+# 3. Use by calling 'swapcolors "onedark"'
+#
+# NOTE: In Doom Emacs, you have to run (SPC h r r) and (SPC h r t)
+#
 
 
 TEMPLATES="$HOME/.zsh/swapcolors/templates"
