@@ -1,0 +1,12 @@
+#+TITLE: Swapcolors
+
+Simple template based tool for switching color schemes of multiple
+applications (such as terminal, Vim, Emacs) simultaneously.
+
+* Installation
+1. Add the following line to your /.zshrc/: =source ~/.zsh/swapcolors=
+2. Source /.zshrc/
+3. Use by running the command =swapcolors dracula=
+** Note
+In Doom Emacs you'll have to run first =(SPC h r r)= and after that =(SPC h r
+t)= to realize the color theme change.
