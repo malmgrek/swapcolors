@@ -9,8 +9,7 @@ Must be installed. Configuration directory /.config/alacritty/ exists.
 ** Emacs
 Doom Emacs configuration framework is installed. Configuration files are located in /.doom.d/
 ** Vim
-Configuration file /.vimrc/ is more or less as https://github.com/malmgrek/dotfiles/blob/master/.vimrc
-
+Configuration file /.vimrc/ must contain the line of code =expand("~/.vim/color.vim")=
 * Installation
 1. Add the following line to your /.zshrc/: =source ~/.zsh/swapcolors.zsh=
 2. Source /.zshrc/
