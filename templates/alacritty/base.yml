@@ -346,6 +346,61 @@ schemes:
       cyan:    '#9aedfe'
       white:   '#eff0eb'
 
+  spacemacs-dark: &spacemacs-dark
+    primary:
+      background: '#292b2e'
+      foreground: '#a3a3a3'
+    cursor:
+      text:   '#1f2022'
+      cursor: '#a3a3a3'
+    normal:
+      black:   '#1f2022'
+      red:     '#f2241f'
+      green:   '#2d9574'  # aqua
+      #yellow:  '#dc752f'  # orange
+      yellow:  '#bc6ec5'  # magenta
+      blue:    '#4f97d7'
+      magenta: '#bc6ec5'  # magenta
+      cyan:    '#2d9574'
+      white:   '#a3a3a3'
+    bright:
+      black:   '#585858'
+      red:     '#f2241f'
+      green:   '#2d9574'  # aqua
+      #yellow:  '#dc752f'  # orange
+      yellow:  '#bc6ec5'  # magenta
+      blue:    '#4f97d7'
+      magenta: '#bc6ec5'  # magenta
+      cyan:    '#2d9574'
+      white:   '#f8f8f8'
+
+  spacemacs-light: &spacemacs-light
+    primary:
+      background: '#fbf8ef'
+      foreground: '#686868'
+    cursor:
+      text:   '#1f2022'
+      cursor: '#a3a3a3'
+    normal:
+      black:   '#1f2022'
+      red:     '#f2241f'
+      green:   '#2d9574'  # aqua
+      #yellow:  '#dc752f'  # orange
+      yellow:  '#bc6ec5'  # magenta
+      blue:    '#4f97d7'
+      magenta: '#bc6ec5'  # magenta
+      cyan:    '#2d9574'
+      white:   '#a3a3a3'
+    bright:
+      black:   '#a3a3a3'
+      red:     '#f2241f'
+      green:   '#2d9574'  # aqua
+      #yellow:  '#dc752f'  # orange
+      yellow:  '#bc6ec5'  # magenta
+      blue:    '#4f97d7'
+      magenta: '#bc6ec5'  # magenta
+      cyan:    '#2d9574'
+      white:   '#f8f8f8'
 
 # Visual Bell
 #
